@@ -1,6 +1,6 @@
 {
-  "name": "Power After the Storm",
-  "short_name": "Power After Storm",
+  "name": "Power After The Storm",
+  "short_name": "Power After The Storm",
   "description": "An offline-friendly electric cooperative restoration adventure",
   "start_url": "./index.html",
   "scope": "./",
